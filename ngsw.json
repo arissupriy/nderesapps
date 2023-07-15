@@ -1,0 +1,87 @@
+{
+  "configVersion": 1,
+  "timestamp": 1689416845709,
+  "index": "https://arissupriy.github.io/nderesapps/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://arissupriy.github.io/nderesapps/favicon.ico",
+        "https://arissupriy.github.io/nderesapps/index.html",
+        "https://arissupriy.github.io/nderesapps/main.6c8a4d067daccbc6.js",
+        "https://arissupriy.github.io/nderesapps/manifest.webmanifest",
+        "https://arissupriy.github.io/nderesapps/polyfills.402deeb17e0b07c2.js",
+        "https://arissupriy.github.io/nderesapps/runtime.f42657e629755312.js",
+        "https://arissupriy.github.io/nderesapps/styles.519527af427643ee.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://arissupriy.github.io/nderesapps/assets/icons/icon-128x128.png",
+        "https://arissupriy.github.io/nderesapps/assets/icons/icon-144x144.png",
+        "https://arissupriy.github.io/nderesapps/assets/icons/icon-152x152.png",
+        "https://arissupriy.github.io/nderesapps/assets/icons/icon-192x192.png",
+        "https://arissupriy.github.io/nderesapps/assets/icons/icon-384x384.png",
+        "https://arissupriy.github.io/nderesapps/assets/icons/icon-48x48.png",
+        "https://arissupriy.github.io/nderesapps/assets/icons/icon-512x512.png",
+        "https://arissupriy.github.io/nderesapps/assets/icons/icon-72x72.png",
+        "https://arissupriy.github.io/nderesapps/assets/icons/icon-96x96.png",
+        "https://arissupriy.github.io/nderesapps/assets/logo.png",
+        "https://arissupriy.github.io/nderesapps/assets/sambungayat.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://arissupriy.github.io/nderesapps/assets/icons/icon-128x128.png": "f45542b9f4a7b1371153da5c20da1aa50486b8fb",
+    "https://arissupriy.github.io/nderesapps/assets/icons/icon-144x144.png": "fa3f833ecdb9a44acd3c86b1394760b62834684a",
+    "https://arissupriy.github.io/nderesapps/assets/icons/icon-152x152.png": "cf800174a0a281836187f9783658cd3f6cab0d2b",
+    "https://arissupriy.github.io/nderesapps/assets/icons/icon-192x192.png": "1059c4a687c7bf1f9fdda69c02ab165bdb98fd40",
+    "https://arissupriy.github.io/nderesapps/assets/icons/icon-384x384.png": "1ba5b2df2609a6196b30dbe765017c1a1e7885a4",
+    "https://arissupriy.github.io/nderesapps/assets/icons/icon-48x48.png": "041a8579d5f1ba72903bdeba8730fd8b79f0b55c",
+    "https://arissupriy.github.io/nderesapps/assets/icons/icon-512x512.png": "20e1a6586721f9f1c83f2a0e23f49867ce4020e6",
+    "https://arissupriy.github.io/nderesapps/assets/icons/icon-72x72.png": "404cedd683526b43c4ca08740457173ae711a2e5",
+    "https://arissupriy.github.io/nderesapps/assets/icons/icon-96x96.png": "8759c9bf62eb30d78405fca2ae2b0f15726615f4",
+    "https://arissupriy.github.io/nderesapps/assets/logo.png": "404cedd683526b43c4ca08740457173ae711a2e5",
+    "https://arissupriy.github.io/nderesapps/assets/sambungayat.png": "432f54938c1f025084c32d026b2f733870688aa9",
+    "https://arissupriy.github.io/nderesapps/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://arissupriy.github.io/nderesapps/index.html": "2ec9d2aacda67f1583f56d92a2b42a81ad479ae3",
+    "https://arissupriy.github.io/nderesapps/main.6c8a4d067daccbc6.js": "32f47ad0369b8ab44b88190ba61a4bae0c010404",
+    "https://arissupriy.github.io/nderesapps/manifest.webmanifest": "99aecc32c96c9f2f444d7b381186d2a61f57a337",
+    "https://arissupriy.github.io/nderesapps/polyfills.402deeb17e0b07c2.js": "18f14ccdbb51ad30cb6002f529bdcf4aecb20afc",
+    "https://arissupriy.github.io/nderesapps/runtime.f42657e629755312.js": "51bbc74b6df19c1986acb6989e7ddcb2d826b164",
+    "https://arissupriy.github.io/nderesapps/styles.519527af427643ee.css": "50b6823f7a9507e18d097266f064aa996a00e12e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
