@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1689416845709,
+  "timestamp": 1689439262567,
   "index": "https://arissupriy.github.io/nderesapps/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://arissupriy.github.io/nderesapps/favicon.ico",
         "https://arissupriy.github.io/nderesapps/index.html",
-        "https://arissupriy.github.io/nderesapps/main.6c8a4d067daccbc6.js",
+        "https://arissupriy.github.io/nderesapps/main.10ebafc1f8bba43c.js",
         "https://arissupriy.github.io/nderesapps/manifest.webmanifest",
         "https://arissupriy.github.io/nderesapps/polyfills.402deeb17e0b07c2.js",
         "https://arissupriy.github.io/nderesapps/runtime.f42657e629755312.js",
-        "https://arissupriy.github.io/nderesapps/styles.519527af427643ee.css"
+        "https://arissupriy.github.io/nderesapps/styles.c5491ca8ce1e3648.css"
       ],
       "patterns": []
     },
@@ -58,12 +58,12 @@
     "https://arissupriy.github.io/nderesapps/assets/logo.png": "404cedd683526b43c4ca08740457173ae711a2e5",
     "https://arissupriy.github.io/nderesapps/assets/sambungayat.png": "432f54938c1f025084c32d026b2f733870688aa9",
     "https://arissupriy.github.io/nderesapps/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://arissupriy.github.io/nderesapps/index.html": "2ec9d2aacda67f1583f56d92a2b42a81ad479ae3",
-    "https://arissupriy.github.io/nderesapps/main.6c8a4d067daccbc6.js": "32f47ad0369b8ab44b88190ba61a4bae0c010404",
+    "https://arissupriy.github.io/nderesapps/index.html": "c8a073767f1c9e4f1d4ea63fc381afe71a5adb44",
+    "https://arissupriy.github.io/nderesapps/main.10ebafc1f8bba43c.js": "ba8647ab282460f340c9db4977aa2dbeb5cce41e",
     "https://arissupriy.github.io/nderesapps/manifest.webmanifest": "99aecc32c96c9f2f444d7b381186d2a61f57a337",
     "https://arissupriy.github.io/nderesapps/polyfills.402deeb17e0b07c2.js": "18f14ccdbb51ad30cb6002f529bdcf4aecb20afc",
     "https://arissupriy.github.io/nderesapps/runtime.f42657e629755312.js": "51bbc74b6df19c1986acb6989e7ddcb2d826b164",
-    "https://arissupriy.github.io/nderesapps/styles.519527af427643ee.css": "50b6823f7a9507e18d097266f064aa996a00e12e"
+    "https://arissupriy.github.io/nderesapps/styles.c5491ca8ce1e3648.css": "c0a0a25f6ede109b938a91b9a4482b5bc172f752"
   },
   "navigationUrls": [
     {
