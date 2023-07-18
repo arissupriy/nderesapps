@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1689674832950,
+  "timestamp": 1689678342227,
   "index": "https://arissupriy.github.io/nderesapps/index.html",
   "assetGroups": [
     {
@@ -11,6 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://arissupriy.github.io/nderesapps/assets/burdah-chapters.json",
         "https://arissupriy.github.io/nderesapps/assets/burdah.json",
         "https://arissupriy.github.io/nderesapps/assets/logo.png",
         "https://arissupriy.github.io/nderesapps/assets/sambungayat.png",
@@ -620,7 +621,7 @@
         "https://arissupriy.github.io/nderesapps/assets/woff2/p99.woff2",
         "https://arissupriy.github.io/nderesapps/favicon.ico",
         "https://arissupriy.github.io/nderesapps/index.html",
-        "https://arissupriy.github.io/nderesapps/main.88f0d2852402e073.js",
+        "https://arissupriy.github.io/nderesapps/main.4058bfbf8b3a3b5e.js",
         "https://arissupriy.github.io/nderesapps/manifest.webmanifest",
         "https://arissupriy.github.io/nderesapps/polyfills.402deeb17e0b07c2.js",
         "https://arissupriy.github.io/nderesapps/runtime.f42657e629755312.js",
@@ -639,7 +640,6 @@
         "https://arissupriy.github.io/nderesapps/assets/BurdahIcon.svg",
         "https://arissupriy.github.io/nderesapps/assets/KFGQPC Uthman Taha Naskh Regular.ttf",
         "https://arissupriy.github.io/nderesapps/assets/QuranIcon.svg",
-        "https://arissupriy.github.io/nderesapps/assets/burdah-chapters.json",
         "https://arissupriy.github.io/nderesapps/assets/font-files.scss",
         "https://arissupriy.github.io/nderesapps/assets/icons/icon-128x128.png",
         "https://arissupriy.github.io/nderesapps/assets/icons/icon-144x144.png",
@@ -1378,8 +1378,8 @@
     "https://arissupriy.github.io/nderesapps/assets/woff2/p98.woff2": "5dfb3819e15a0431396c6c0af48fcbcf5532007f",
     "https://arissupriy.github.io/nderesapps/assets/woff2/p99.woff2": "681096a871b09c156d29a86b4d3b4400335456d3",
     "https://arissupriy.github.io/nderesapps/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://arissupriy.github.io/nderesapps/index.html": "59f8ad1102c88c61826ef75ccef51035cb132f63",
-    "https://arissupriy.github.io/nderesapps/main.88f0d2852402e073.js": "3046aedb5ea68f1321815ee540c966f68217025a",
+    "https://arissupriy.github.io/nderesapps/index.html": "15b3bf0eb401551e7ebfe1a59b3d08180710bb90",
+    "https://arissupriy.github.io/nderesapps/main.4058bfbf8b3a3b5e.js": "426333ca29a4430b8b34465295c07a9443c7faff",
     "https://arissupriy.github.io/nderesapps/manifest.webmanifest": "99aecc32c96c9f2f444d7b381186d2a61f57a337",
     "https://arissupriy.github.io/nderesapps/p1.7d1bcd675ed6fc05.woff2": "1761e08bcffbc1d09b8be1b982ec073629f133a4",
     "https://arissupriy.github.io/nderesapps/p10.66dd3e2b78dc998c.woff2": "4b774f352cfd97bfe0b2d32db41f574cf584d526",
