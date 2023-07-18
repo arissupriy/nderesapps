@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1689700956387,
+  "timestamp": 1689701085375,
   "index": "https://arissupriy.github.io/nderesapps/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "https://arissupriy.github.io/nderesapps/assets/sambungayat.png",
         "https://arissupriy.github.io/nderesapps/favicon.ico",
         "https://arissupriy.github.io/nderesapps/index.html",
-        "https://arissupriy.github.io/nderesapps/main.9dc5c87d2d0313ff.js",
+        "https://arissupriy.github.io/nderesapps/main.23c1ee1f11fed9a5.js",
         "https://arissupriy.github.io/nderesapps/manifest.webmanifest",
         "https://arissupriy.github.io/nderesapps/polyfills.402deeb17e0b07c2.js",
         "https://arissupriy.github.io/nderesapps/runtime.f42657e629755312.js",
@@ -1278,8 +1278,8 @@
     "https://arissupriy.github.io/nderesapps/assets/woff2/p98.woff2": "5dfb3819e15a0431396c6c0af48fcbcf5532007f",
     "https://arissupriy.github.io/nderesapps/assets/woff2/p99.woff2": "681096a871b09c156d29a86b4d3b4400335456d3",
     "https://arissupriy.github.io/nderesapps/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://arissupriy.github.io/nderesapps/index.html": "646fadb4f2412f73b58dfed09a7550cba4a4c287",
-    "https://arissupriy.github.io/nderesapps/main.9dc5c87d2d0313ff.js": "351eb541e4f826b6e8214cf020e1165802826731",
+    "https://arissupriy.github.io/nderesapps/index.html": "0ef20cf79cb4542f4cabedf4b194cf5dd2e0520e",
+    "https://arissupriy.github.io/nderesapps/main.23c1ee1f11fed9a5.js": "d5e42977071327b8427c48b2b83cd641a024e350",
     "https://arissupriy.github.io/nderesapps/manifest.webmanifest": "99aecc32c96c9f2f444d7b381186d2a61f57a337",
     "https://arissupriy.github.io/nderesapps/polyfills.402deeb17e0b07c2.js": "18f14ccdbb51ad30cb6002f529bdcf4aecb20afc",
     "https://arissupriy.github.io/nderesapps/runtime.f42657e629755312.js": "51bbc74b6df19c1986acb6989e7ddcb2d826b164",
