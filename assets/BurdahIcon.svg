@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="BurdahIcon.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.89424149"
+     inkscape:cx="309.2006"
+     inkscape:cy="403.69409"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2163">
+      <stop
+         style="stop-color:#126e6e;stop-opacity:1;"
+         offset="0"
+         id="stop2159" />
+      <stop
+         style="stop-color:#001818;stop-opacity:0;"
+         offset="1"
+         id="stop2161" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2163"
+       id="linearGradient2165"
+       x1="-36.901085"
+       y1="68.786491"
+       x2="98.164055"
+       y2="66.278648"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#126e6e;fill-opacity:0.86350995;stroke:#ffffff;stroke-width:0.73826"
+       id="path240"
+       cx="67.73333"
+       cy="67.73333"
+       r="67.364204" />
+    <circle
+       style="fill:url(#linearGradient2165);fill-opacity:1;stroke:#ffffff;stroke-width:0.73826"
+       id="circle1994"
+       cx="67.73333"
+       cy="67.73333"
+       r="67.364204" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.0468px;line-height:0;font-family:'arab quran islamic 3';-inkscape-font-specification:'arab quran islamic 3, ';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.527;stroke-dasharray:none"
+       x="43.830856"
+       y="68.676834"
+       id="text347"
+       transform="rotate(6.775435)"><tspan
+         sodipodi:role="line"
+         id="tspan345"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:17.3037px;font-family:Aldhabi;-inkscape-font-specification:Aldhabi;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.527;stroke-dasharray:none"
+         x="43.830856"
+         y="68.676834"
+         dy="-14.04">قصيدة</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:17.3037px;font-family:Aldhabi;-inkscape-font-specification:Aldhabi;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.527;stroke-dasharray:none"
+         x="43.830856"
+         y="85.98053"
+         id="tspan505"> البردة</tspan></text>
+  </g>
+</svg>

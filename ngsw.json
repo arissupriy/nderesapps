@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1689626954333,
+  "timestamp": 1689674832950,
   "index": "https://arissupriy.github.io/nderesapps/index.html",
   "assetGroups": [
     {
@@ -620,11 +620,11 @@
         "https://arissupriy.github.io/nderesapps/assets/woff2/p99.woff2",
         "https://arissupriy.github.io/nderesapps/favicon.ico",
         "https://arissupriy.github.io/nderesapps/index.html",
-        "https://arissupriy.github.io/nderesapps/main.8b561eee5d51bc87.js",
+        "https://arissupriy.github.io/nderesapps/main.88f0d2852402e073.js",
         "https://arissupriy.github.io/nderesapps/manifest.webmanifest",
         "https://arissupriy.github.io/nderesapps/polyfills.402deeb17e0b07c2.js",
         "https://arissupriy.github.io/nderesapps/runtime.f42657e629755312.js",
-        "https://arissupriy.github.io/nderesapps/styles.3fe09ab55d2b8acc.css"
+        "https://arissupriy.github.io/nderesapps/styles.4cbb97743e1cf32c.css"
       ],
       "patterns": []
     },
@@ -636,8 +636,10 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://arissupriy.github.io/nderesapps/assets/BurdahIcon.svg",
         "https://arissupriy.github.io/nderesapps/assets/KFGQPC Uthman Taha Naskh Regular.ttf",
-        "https://arissupriy.github.io/nderesapps/assets/OmarNaskh-Regular.ttf",
+        "https://arissupriy.github.io/nderesapps/assets/QuranIcon.svg",
+        "https://arissupriy.github.io/nderesapps/assets/burdah-chapters.json",
         "https://arissupriy.github.io/nderesapps/assets/font-files.scss",
         "https://arissupriy.github.io/nderesapps/assets/icons/icon-128x128.png",
         "https://arissupriy.github.io/nderesapps/assets/icons/icon-144x144.png",
@@ -648,7 +650,6 @@
         "https://arissupriy.github.io/nderesapps/assets/icons/icon-512x512.png",
         "https://arissupriy.github.io/nderesapps/assets/icons/icon-72x72.png",
         "https://arissupriy.github.io/nderesapps/assets/icons/icon-96x96.png",
-        "https://arissupriy.github.io/nderesapps/assets/maddina.ttf",
         "https://arissupriy.github.io/nderesapps/p1.7d1bcd675ed6fc05.woff2",
         "https://arissupriy.github.io/nderesapps/p10.66dd3e2b78dc998c.woff2",
         "https://arissupriy.github.io/nderesapps/p100.9fecdb752b88e20b.woff2",
@@ -755,9 +756,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "https://arissupriy.github.io/nderesapps/assets/BurdahIcon.svg": "41a4dafe62d81a04f77d1612b3f5e0fa0da9ebe4",
     "https://arissupriy.github.io/nderesapps/assets/KFGQPC Uthman Taha Naskh Regular.ttf": "154d7299c366c1e24801fc832e2ecec25c28b096",
-    "https://arissupriy.github.io/nderesapps/assets/OmarNaskh-Regular.ttf": "44b4130cbe5833477d005e0ad5fca4bfae008627",
-    "https://arissupriy.github.io/nderesapps/assets/burdah.json": "1b32740462be324d0255b9c15d42f37d44898443",
+    "https://arissupriy.github.io/nderesapps/assets/QuranIcon.svg": "f18b92b69d523a1b46763c0c983ab848ecb9a959",
+    "https://arissupriy.github.io/nderesapps/assets/burdah-chapters.json": "8cfe7fbb44fb5daccadb02c9cd013c16e24fd96a",
+    "https://arissupriy.github.io/nderesapps/assets/burdah.json": "b9b840498c3ceb407cb2cedc4b96557555a5e7e4",
     "https://arissupriy.github.io/nderesapps/assets/font-files.scss": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "https://arissupriy.github.io/nderesapps/assets/icons/icon-128x128.png": "f45542b9f4a7b1371153da5c20da1aa50486b8fb",
     "https://arissupriy.github.io/nderesapps/assets/icons/icon-144x144.png": "fa3f833ecdb9a44acd3c86b1394760b62834684a",
@@ -769,7 +772,6 @@
     "https://arissupriy.github.io/nderesapps/assets/icons/icon-72x72.png": "404cedd683526b43c4ca08740457173ae711a2e5",
     "https://arissupriy.github.io/nderesapps/assets/icons/icon-96x96.png": "8759c9bf62eb30d78405fca2ae2b0f15726615f4",
     "https://arissupriy.github.io/nderesapps/assets/logo.png": "404cedd683526b43c4ca08740457173ae711a2e5",
-    "https://arissupriy.github.io/nderesapps/assets/maddina.ttf": "bb158ec925c8374659e0c840fae7d19f32a3f423",
     "https://arissupriy.github.io/nderesapps/assets/sambungayat.png": "432f54938c1f025084c32d026b2f733870688aa9",
     "https://arissupriy.github.io/nderesapps/assets/woff2/p1.woff2": "1761e08bcffbc1d09b8be1b982ec073629f133a4",
     "https://arissupriy.github.io/nderesapps/assets/woff2/p10.woff2": "4b774f352cfd97bfe0b2d32db41f574cf584d526",
@@ -1376,8 +1378,8 @@
     "https://arissupriy.github.io/nderesapps/assets/woff2/p98.woff2": "5dfb3819e15a0431396c6c0af48fcbcf5532007f",
     "https://arissupriy.github.io/nderesapps/assets/woff2/p99.woff2": "681096a871b09c156d29a86b4d3b4400335456d3",
     "https://arissupriy.github.io/nderesapps/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://arissupriy.github.io/nderesapps/index.html": "d29c9e33517d78b50eec883baab5024ca1c77c20",
-    "https://arissupriy.github.io/nderesapps/main.8b561eee5d51bc87.js": "c780c0f5ef8978cf0e39553dfabbc3b4f4e95b81",
+    "https://arissupriy.github.io/nderesapps/index.html": "59f8ad1102c88c61826ef75ccef51035cb132f63",
+    "https://arissupriy.github.io/nderesapps/main.88f0d2852402e073.js": "3046aedb5ea68f1321815ee540c966f68217025a",
     "https://arissupriy.github.io/nderesapps/manifest.webmanifest": "99aecc32c96c9f2f444d7b381186d2a61f57a337",
     "https://arissupriy.github.io/nderesapps/p1.7d1bcd675ed6fc05.woff2": "1761e08bcffbc1d09b8be1b982ec073629f133a4",
     "https://arissupriy.github.io/nderesapps/p10.66dd3e2b78dc998c.woff2": "4b774f352cfd97bfe0b2d32db41f574cf584d526",
@@ -1481,7 +1483,7 @@
     "https://arissupriy.github.io/nderesapps/p99.38f65e17404cedfd.woff2": "681096a871b09c156d29a86b4d3b4400335456d3",
     "https://arissupriy.github.io/nderesapps/polyfills.402deeb17e0b07c2.js": "18f14ccdbb51ad30cb6002f529bdcf4aecb20afc",
     "https://arissupriy.github.io/nderesapps/runtime.f42657e629755312.js": "51bbc74b6df19c1986acb6989e7ddcb2d826b164",
-    "https://arissupriy.github.io/nderesapps/styles.3fe09ab55d2b8acc.css": "af0941ee6358acbeb26076d3eea7b45733442d04"
+    "https://arissupriy.github.io/nderesapps/styles.4cbb97743e1cf32c.css": "fce7a3b481619e8b540558d88997ed5a77593239"
   },
   "navigationUrls": [
     {
