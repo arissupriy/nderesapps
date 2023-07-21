@@ -1,0 +1,1 @@
+(()=>{"use strict";addEventListener("message",({data:t})=>{const s=t.url;console.log(`fetch data ${s}`),fetch(s).then(e=>e.json()).then(e=>{self.postMessage({page:t.page,data:e})}).catch(e=>{console.error("Error fetching data:",e)})})})();
