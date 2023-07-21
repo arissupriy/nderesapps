@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1689902484875,
+  "timestamp": 1689936483157,
   "index": "https://arissupriy.github.io/nderesapps/index.html",
   "assetGroups": [
     {
@@ -14,8 +14,13 @@
         "https://arissupriy.github.io/nderesapps/586.62172d95a09fff22.js",
         "https://arissupriy.github.io/nderesapps/604.b4a016214baa9efa.js",
         "https://arissupriy.github.io/nderesapps/665.32d00692ab807db7.js",
+        "https://arissupriy.github.io/nderesapps/assets/BurdahIcon.svg",
+        "https://arissupriy.github.io/nderesapps/assets/KFGQPC Uthman Taha Naskh Regular.ttf",
+        "https://arissupriy.github.io/nderesapps/assets/QuranIcon.svg",
+        "https://arissupriy.github.io/nderesapps/assets/alquranul-karim.svg",
         "https://arissupriy.github.io/nderesapps/assets/api/juz.json",
         "https://arissupriy.github.io/nderesapps/assets/api/surah.json",
+        "https://arissupriy.github.io/nderesapps/assets/bismillah.svg",
         "https://arissupriy.github.io/nderesapps/assets/burdah-chapters.json",
         "https://arissupriy.github.io/nderesapps/assets/burdah.json",
         "https://arissupriy.github.io/nderesapps/assets/logo.png",
@@ -38,10 +43,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://arissupriy.github.io/nderesapps/assets/BurdahIcon.svg",
-        "https://arissupriy.github.io/nderesapps/assets/KFGQPC Uthman Taha Naskh Regular.ttf",
-        "https://arissupriy.github.io/nderesapps/assets/QuranIcon.svg",
-        "https://arissupriy.github.io/nderesapps/assets/alquranul-karim.svg",
         "https://arissupriy.github.io/nderesapps/assets/api/pages/page-1.json",
         "https://arissupriy.github.io/nderesapps/assets/api/pages/page-10.json",
         "https://arissupriy.github.io/nderesapps/assets/api/pages/page-100.json",
@@ -646,7 +647,6 @@
         "https://arissupriy.github.io/nderesapps/assets/api/pages/page-97.json",
         "https://arissupriy.github.io/nderesapps/assets/api/pages/page-98.json",
         "https://arissupriy.github.io/nderesapps/assets/api/pages/page-99.json",
-        "https://arissupriy.github.io/nderesapps/assets/bismillah.svg",
         "https://arissupriy.github.io/nderesapps/assets/font-files.scss",
         "https://arissupriy.github.io/nderesapps/assets/icons/icon-128x128.png",
         "https://arissupriy.github.io/nderesapps/assets/icons/icon-144x144.png",
